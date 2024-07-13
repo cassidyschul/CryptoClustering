@@ -1,4 +1,4 @@
-Unsupervised Machine Learning Cryptocurrency Clustering
+# Unsupervised Machine Learning Cryptocurrency Clustering
 
 In this assignment, I developed a Python script using the scikit-learn library to group various cryptocurrencies. Initially, the data was normalized with the StandardScaler module. I then employed the KMeans model and an elbow curve to identify and visualize the optimal k value, grouping the data into four clusters and visualizing two features using the hvPlot library.
 
